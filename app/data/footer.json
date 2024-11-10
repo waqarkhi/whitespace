@@ -1,0 +1,18 @@
+[
+    [
+        ["#","Product","bold"],
+        ["#","Overview","#FFE492"],
+        ["#","Pricing"],
+        ["#","Customer stories"]
+    ],[
+        ["#","Resources","bold"],
+        ["#","Blog"],
+        ["#","Guides & tutorials"],
+        ["#","Help center"]
+    ],[
+        ["#","Company","bold"],
+        ["#","About us"],
+        ["#","Careers"],
+        ["#","Media kit"]
+    ]
+]
