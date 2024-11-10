@@ -1,7 +1,7 @@
 import { Button } from "../parts/Button";
-import Android from "../../public/images/os/Android.svg";
-import Apple from "../../public/images/os/Apple.svg";
-import Windows from "../../public/images/os/Windows.svg";
+import Android from "../../public/images/os/android.svg";
+import Apple from "../../public/images/os/apple.svg";
+import Windows from "../../public/images/os/windows.svg";
 import Image from "@/node_modules/next/image";
 
 export function Cta() {

@@ -2,7 +2,7 @@ import Image from "@/node_modules/next/image";
 import Link from "@/node_modules/next/link";
 import Logo from "../../public/images/white-space.svg";
 import { Button } from "../parts/Button";
-import Globe from "../../public/images/Globe.svg";
+import Globe from "../../public/images/globe.svg";
 import ArrowDown from "../../public/images/arrow-down.svg";
 import FB from "../../public/images/social/fb.svg";
 import In from "../../public/images/social/in.svg";
